@@ -1,8 +1,7 @@
 ```cs
 void printUserInfoAsTable() {
-	var userInfoDict = Config.getUserInfoAsDict();
 	Console.WriteLine("| Key | Value |\n|-----|-------|");
-	foreach (const kv in userInfoDict)
+	foreach (const kv in config.getUserInfoAsDict())
 	{
 		Console.WriteLine($"| {kv.Key} | {kv.Value} |");
 	}
