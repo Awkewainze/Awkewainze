@@ -1,4 +1,23 @@
-### Hi there 👋
+```cs
+void printUserInfoAsTable() {
+	var userInfoDict = Config.getUserInfoAsDict();
+	Console.WriteLine("| Key | Value |\n|-----|-------|");
+	foreach (const kv in userInfoDict)
+	{
+		Console.WriteLine($"| {kv.Key} | {kv.Value} |");
+	}
+}
+```
+| Key | Value |
+|-----|-------|
+| Name | Nova |
+| Pronouns | She/Her/They/Them |
+| Current Location | California |
+| 🏳️‍🌈? | Yes, very |
+| Website | [nova.walseth.me](https://nova.walseth.me/) |
+| Proficient Languages | TS/JS, C#, Java, Lua, Python |
+| Actively Learning | Rust |
+| Favorite Projects | [Friendbot](https://github.com/Awkewainze/FriendBot), [SmartConsole](https://github.com/Awkewainze/SmartConsole)
 
 <!--
 **Awkewainze/Awkewainze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
