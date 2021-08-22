@@ -18,6 +18,8 @@ void printUserInfoAsTable() {
 | Actively Learning | Rust |
 | Favorite Projects | [Friendbot](https://github.com/Awkewainze/FriendBot), [SmartConsole](https://github.com/Awkewainze/SmartConsole)
 
+[![Awkewainze's GitHub stats](https://github-readme-stats.vercel.app/api?username=awkewainze&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Awkewainze/Awkewainze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
