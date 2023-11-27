@@ -1,22 +1,5 @@
-```cs
-void printUserInfoAsTable() {
-	Console.WriteLine("| Key | Value |\n|-----|-------|");
-	foreach (const kv in config.getUserInfoAsDict())
-	{
-		Console.WriteLine($"| {kv.Key} | {kv.Value} |");
-	}
-}
-```
-| Key | Value |
-|-----|-------|
-| Name | Nova |
-| Pronouns | She/Her/They/Them |
-| Current Location | California |
-| 🏳️‍🌈? | Yes, very |
-| Website | [nova.walseth.me](https://nova.walseth.me/) |
-| Proficient Languages | TS/JS, C#, Java, Lua, Python |
-| Actively Learning | Rust |
-| Favorite Projects | [Friendbot](https://github.com/Awkewainze/FriendBot), [SmartConsole](https://github.com/Awkewainze/SmartConsole)
+I am a very strong TypeScript/JavaScript developer but have touched a bit of everything, including C#, Java, C++, Lua, Rust, Python, etc...
+Recently been working on more hardware projects around my apartment.
 
 [![Awkewainze's GitHub stats](https://github-readme-stats.vercel.app/api?username=awkewainze&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 
