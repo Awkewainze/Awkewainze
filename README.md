@@ -1,5 +1,6 @@
-I am a very strong TypeScript/JavaScript developer but have touched a bit of everything, including C#, Java, C++, Lua, Rust, Python, etc...
-Recently been working on more hardware projects around my apartment.
+Senior/Lead developer that has touched a bit of everything, including TypeScript, C#, Java, C++, SQL, Lua, Rust, Python, etc... for cloud, web, mobile, desktop, and a few hardware projects.
+
+Personally favorite tooling is TypeScript + C# but pushing myself to use other tools when possible!
 
 [![Awkewainze's GitHub stats](https://github-readme-stats.vercel.app/api?username=awkewainze&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 
