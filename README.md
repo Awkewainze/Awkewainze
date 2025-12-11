@@ -2,8 +2,6 @@ Senior/Lead developer that has touched a bit of everything, including TypeScript
 
 Personally favorite tooling is TypeScript + C# but pushing myself to use other tools when possible!
 
-[![Awkewainze's GitHub stats](https://github-readme-stats.vercel.app/api?username=awkewainze&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **Awkewainze/Awkewainze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
