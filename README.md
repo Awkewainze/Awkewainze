@@ -1,9 +1,10 @@
-Senior/Lead developer that has touched a bit of everything, including TypeScript, C#, Java, C++, SQL, Lua, Rust, Python, Elixir, etc... for cloud, web, mobile, desktop, game dev, and hardware projects.
+Senior/Lead developer that has touched a bit of everything; cloud, web, mobile, desktop, game dev, and hardware projects.
 
-Personally current favorite languages are TypeScript + C#
+Current favorite languages are TypeScript (Bun) + C#
 
-Currently working on learning elixir and getting into technical blogging
+Currently working on learning Elixir and getting into technical blogging
 
+I use arch btw
 <!--
 **Awkewainze/Awkewainze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
